@@ -2,8 +2,8 @@
   <a href="https://github.com/kanakanho/kanakanho/">
     <img src="https://komarev.com/ghpvc/?username=kanakanho" alt="yutkat" />
   </a>
-  <a href="http://twitter.com/Shiba_ao_">
-    <img height="20" src="https://img.shields.io/twitter/follow/Fafner_sou?label=Twitter&logo=twitter&style=flat" />
+  <a href="https://twitter.com/Shiba_ao_">
+    <img height="20" src="https://img.shields.io/twitter/follow/Shiba_ao_?style=flat&logo=x&label=twitter" />
   </a>
   <a href="https://github.com/kanakanho">
     <img height="20" src="https://img.shields.io/github/followers/kanakanho?label=follow&logo=github&style=flat" />
