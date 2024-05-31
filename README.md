@@ -12,7 +12,7 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/kanakanho/posts.svg" />
   </a>
   <//qiita.com/kanakanho">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/happy663/contributions.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/kanakanho/contributions.svg" />
   </a>
 </p>
 
